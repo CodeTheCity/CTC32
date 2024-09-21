@@ -1,5 +1,5 @@
 # CTC32
-Home repo for the (CTC32 Community Safety)[https://codethecity.org/what-we-do/hack-weekends/ctc32-community-safety/] hackathon on 21-22 Sept 2024
+Home repo for the [CTC32 Community Safety](https://codethecity.org/what-we-do/hack-weekends/ctc32-community-safety/) hackathon on 21-22 Sept 2024
 We had 17 particpants on Saturday, who formed three teams
 
 ## Team Bus
