@@ -1,6 +1,6 @@
 # CTC32
 The [CTC32 Community Safety](https://codethecity.org/what-we-do/hack-weekends/ctc32-community-safety/) hackathon took place on 21-22 Sept 2024.
-We had 17 particpants on Saturday, who formed three teams. We had x people taking part on Sunday.
+We had 17 particpants on Saturday, who formed three teams. We had x people taking part on Sunday. We had two people also drop by for one of the show-and-tell sessions, who offered useful comments to the teams. Sunday, saw 14 people return to continue the work.
 We thank our sponsors [Absafe](https://www.absafe.org.uk/) and [Dtechtive](https://dtechtive.com)
 
 ## Team Bus
