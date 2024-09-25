@@ -10,6 +10,8 @@ Looking at how we might improve the experience of waiting for busses, and wonder
 ## [Team Let Me Ride](https://github.com/CodeTheCity/Team_Let_Me_Ride)
 Looking at creating an automated system to notify taxi companies that people are waiting at a taxi rank.
 
+Team Let Me Ride's final update at the end of the weekend can be seen here on Youtube [https://youtu.be/rhw-JeSCvkc](https://youtu.be/rhw-JeSCvkc)
+
 ## [Team Yodo](https://github.com/CodeTheCity/Team_Yodo)
 Looking at how we might create an automated system to improve water safety and alert people if someone is in trouble.
 
